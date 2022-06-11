@@ -4,10 +4,6 @@
 
   Hello!👋 My name is Mihyun Lee, I am interested in front-end and back-end development.
   
-  ### 🔥TIL🔥
-  👉 https://mhlee21.github.io/  
-
-  
   ### 🧐 Algorithm
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc20081)](https://solved.ac/abc20081)
